@@ -155,11 +155,11 @@ Also z.B **/give 3000 1**. Dieser Kommando wird dem fokussierten Spieler 1x das 
 
 ## Kochen, Alchemie, Schürfen
 Mit manchen Mobs in der Welt könnt ihr nur interagieren wenn ihr die entsprechenden Gegenstände im Inventar habt. Wollt ihr Gold Schürfen, so braucht ihr eine Spitzhacke.
-Wollt ihr Tränke an einem Alchemietisch brauen, so braucht ihr Pflanzen und Laborwasserflaschen. Wollt ihr an einem Kochtopg kochen, so braucht ihr Lebensmittel und einen Kochlöffel.
+Wollt ihr Tränke an einem Alchemietisch brauen, so braucht ihr Pflanzen und Laborwasserflaschen. Wollt ihr an einem Kochtopf kochen, so braucht ihr Lebensmittel und einen Kochlöffel.
 
 ### Kochen und Alchemie
 Kochen und Alchemie funktionieren ziemlich ähnlich. Sobald ihr mit dem entsprechenden Mob interagiert (Labortisch oder Kochtopf) so werden euch die Kommandos angezeigt die ihr eingeben könnt um etwas zu erstellen. Insgesamt müsst ihr 3 Gegenstände in den Kochtopf, oder die Laborwasserflasche reintun. Je nach Eingaben bekommt ihr dann euer Gericht/Trank.
-Sobald ihr eine Zutat in den Kochtopf, oder die Laborwasserflasche reingetan habt, verschwindet sie aus eurem Inventar. Also seit Vorsichtig, dass ihr die richtigen Zutaten zusammenmischt!
+Sobald ihr eine Zutat in den Kochtopf, oder die Laborwasserflasche reingetan habt, verschwindet sie aus eurem Inventar. Also seit vorsichtig, dass ihr die richtigen Zutaten zusammenmischt!
 
 <br>
 
