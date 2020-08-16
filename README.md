@@ -2,12 +2,52 @@
 Dieses Tutorial soll neuen Spielern die wichtigsten Features des Spiels beibringen. 
 
 ![GMA-Tutorial](GMA_Cover.png)
-## Download
-Ihr könnt Gothic-Multiplayer-Adventures bei Spine downloaden. Dafür müsst ihr Spine downloaden, dort einen Account anlegen und dann Gothic-Multiplayer-Adventures downloaden. Öffnet Gothic-Multiplayer-Adventures und eine Serverliste müsste sich dann öffnen. Der Gothic-Multiplayer-Adventures Server sollte vorselektiert sein, falls nicht dann ist dies die aktuelle 
-<br/>
-<br/>IP-Adresse:
+## Download und Installation
+
+Es gibt 2 Arten wie ihr den Gothic-Multiplayer-Adventures downloaden könnt. In beiden Fällen braucht ihr eine saubere Installation von Gothic 2 (ggf. mit Systempackinstallation damit es auf neueren Rechnern läuft).
+
+
+### **Über Spine**
+Ihr könnt Gothic-Multiplayer-Adventures bei Spine downloaden. Dafür müsst ihr Spine downloaden, dort einen Account anlegen und dann Gothic-Multiplayer-Adventures downloaden. Öffnet Gothic-Multiplayer-Adventures und eine Serverliste müsste sich dann öffnen. Der Gothic-Multiplayer-Adventures Server sollte vorselektiert sein. Falls nicht dann sind das hier die aktuellen Serverdaten:
+
 <br/>IP: 5.181.49.174
 <br/>Port: 28654
+
+<br/>
+
+### **Über google drive links.**
+
+Wenn ihr diesem Link folgt:
+
+<br/>
+
+https://drive.google.com/drive/folders/1WjgSMr0rypzp1U3lVuapNnHyAKTe-2Nh
+
+<br/>
+
+dann werdet ihr zu einem Google-Drive Ordner weitergeleitet welcher 2 Zip Dateien enthält.
+
+<br/>
+
+* GMA_mod.zip: Hierbei handelt es sich um die .mod Datei die ihr für das Betreten des Servers benötigt. Zieht die .mod Datei in den /Data Ordner eurer Gothic 2 Installation. Also zum Beispiel **C:/Programme/Gothic II/Data**. Wichtig! bitte denkt daran eine saubere Gothic 2 Installation zu verwenden wo allerhöchstens Standard Patches wie Systempack installiert sind und **keine** speziellen eigenen .vdfs .mods. mit neuen Animationen oder Ähnlichem. Ich hab die Sicherheitseinstellungen beziehungsweise den directory scan etwas runtergeschraubt, weil anscheinend Gothic 2 Installationen je nach Medium (CD/Steam) variieren und damals einige Nutzer Probleme hatten auf den Server zu kommen. Ich möchte ungern die Sicherheitseinstellungen wieder hochfahren müssen, wenn es zu crashes kommt weil jemand eine eigene Fremde .vdf einspielt.
+
+* GMP_1.1.1.zip: Hierbei handelt es sich um den offiziellen Gothic Multiplayer Client mit dem ihr auch andere Server betreten könnt. Entpackt den Ordner und führt die gml.exe aus. Danach müsste sich eine Serverliste öffnen. Gegebenenfalls müsst ihr euren Gothic 2 Pfad einstellen. Geht dafür in die obere Menüleiste des Clients unter **"Settings" > "Options"** dort könnt ihr den Pfad zu eurer Gothic 2 Installation mit der GMA.mod angeben. Anschließen drückt ihr auf **apply**.
+
+
+<br/>
+
+![GMA-Tutorial](GMA_setup.png)
+
+<br/>
+
+Um euch mit der GMA-Server zu verbinden müsst ihr anschließend die Serverdaten eingeben. Kehrt dafür zur Serverliste zurück. Drückt auf "Add Server" und gebt die Serverdaten ein:
+
+<br/>IP: 5.181.49.174
+<br/>Port: 28654
+
+<br/> Jetzt müsste der Server in der Liste erscheinen und ihr könnt mit Doppelklick euch auf den Server verbinden.
+
+
 
 ## Registrierung
 Sobald ihr euch euch mit dem Server verbunden habt, könnt ihr euch Einloggen oder einen Account anlegen.
