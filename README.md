@@ -50,7 +50,7 @@ Sobald ihr einen Account angelegt habt, könnt ihr euch einloggen.
 
 ## Klassen
 
-In GMA existieren 5 Klassen. Diese sind 'Max-Leveled' und werden im Laufe des Spiels nicht stärker. Jede Klasse hat ihre Stärken und Schwächen und übernimmt eine spezifische Rolle.
+In GMA existieren 5 Klassen. Jede hat ihre Stärken und Schwächen und nehmen eine bestimmte Rolle im Spiel ein.
 
 ### Fighter:
 Der Fighter ist der zuverlässigste Nahkämpfer im Spiel. Er hat eine gute Stärke, viele Lebenspunkte und Meisterschaft im Einhandkampf. Wenn ihr gerne PVP macht, dann werdet ihr mit dieser Klasse vermutlich am meisten Erfolg haben.
@@ -62,7 +62,7 @@ Der Fighter ist der zuverlässigste Nahkämpfer im Spiel. Er hat eine gute Stär
 <br>
 
 ### Hunter:
-Der Hunter ist ein starker Fernkämpfer. Diese Klasse funktioniert am Besten wenn ihr auf Distanz bleibt. Zwar kann der Hunter auch ein wenig Nahkampf. Doch seine geringe Stärke und Lebenspunkte erlauben es ihm nicht gut mit den anderen Nahkampfklassen mitzuhalten.
+Der Hunter ist eine Fernkampfklasse. Diese Klasse funktioniert am Besten wenn ihr auf Distanz bleibt. Im Nahkampf gehört er zu den schwächeren Klassen, funktioniert aber ganz gut wenn ihr nur noch ein paar letzte Schläge verteilen müsst.
 
 <br>
 
@@ -71,7 +71,7 @@ Der Hunter ist ein starker Fernkämpfer. Diese Klasse funktioniert am Besten wen
 <br>
 
 ### Spellcaster:
-Der Spellcaster ist der klassiche Magier. Er verwendet arcane Magie um immensen Schaden zu verursachen. Leider verfügt der Spellcaster über die geringsten Lebenspunkte aller Klassen und muss auf jeden Fall auf Distanz bleiben. Des weiteren kann der Spellcaster andere Mitspieler heilen und ist deshalb essenziell für Teamplays.
+Der Spellcaster ist der klassiche Magier. Er verwendet arcane Magie um großen Schaden zu verursachen. Leider verfügt der Spellcaster über die geringsten Lebenspunkte aller Klassen und muss auf jeden Fall auf Distanz bleiben. Des weiteren kann der Spellcaster andere Mitspieler heilen und ist deshalb essenziell für Teamplays.
 
 <br>
 
@@ -80,7 +80,7 @@ Der Spellcaster ist der klassiche Magier. Er verwendet arcane Magie um immensen 
 <br>
 
 ### Berserker:
-Der Berserker eignet sich für Spieler die sich gerne aufs Glück verlassen. Er ist die Klasse mit dem höchsten Schadenspotenzial. Leider hat er nur eine 30%ige Chance um einen Volltreffer zu landen. Deshalb ist er nicht die zuverlässigste Schadensquelle.
+Der Berserker eignet sich für Spieler die sich gerne aufs Glück verlassen. Er ist die Klasse mit dem höchsten Schadenspotenzial. Leider hat er nur eine 30%ige Chance einen Volltreffer zu landen. Deshalb ist er nicht die zuverlässigste Schadensquelle.
 
 <br>
 
@@ -89,7 +89,7 @@ Der Berserker eignet sich für Spieler die sich gerne aufs Glück verlassen. Er 
 <br>
 
 ### Tank:
-Der Tank ist eine wichtige Teamplayerklasse. Sein Schaden ist nur gering, aber er ist die Klasse mit den meisten Lebenspunkten. Des weiteren besitzt er praktische Zauberrunen um seine Teams zu unterstützen.
+Der Tank ist eine hilfreiche Teamplayerklasse. Sein Schaden ist nur gering, aber er ist die Klasse mit den meisten Lebenspunkten. Des weiteren besitzt er praktische Zauberrunen um seine Teams zu unterstützen.
 
 <br>
 
