@@ -92,54 +92,6 @@ Sobald ihr einen Account angelegt habt, könnt ihr euch einloggen.
 
 In GMA existieren 5 Klassen. Jede hat ihre Stärken und Schwächen und nehmen eine bestimmte Rolle im Spiel ein.
 
-### Fighter:
-Der Fighter ist der zuverlässigste Nahkämpfer im Spiel. Er hat eine gute Stärke, viele Lebenspunkte und Meisterschaft im Einhandkampf. Wenn ihr gerne PVP macht, dann werdet ihr mit dieser Klasse vermutlich am meisten Erfolg haben.
-
-<br>
-
-![GMA-Tutorial](GMA_Fighter.png)
-
-<br>
-
-### Hunter:
-Der Hunter ist eine Fernkampfklasse. Diese Klasse funktioniert am Besten wenn ihr auf Distanz bleibt. Im Nahkampf gehört er zu den schwächeren Klassen, funktioniert aber ganz gut wenn ihr nur noch ein paar letzte Schläge verteilen müsst.
-
-<br>
-
-![GMA-Tutorial](GMA_Hunter.png)
-
-<br>
-
-### Spellcaster:
-Der Spellcaster ist der klassiche Magier. Er verwendet arcane Magie um großen Schaden zu verursachen. Leider verfügt der Spellcaster über die geringsten Lebenspunkte aller Klassen und muss auf jeden Fall auf Distanz bleiben. Des weiteren kann der Spellcaster andere Mitspieler heilen und ist deshalb essenziell für Teamplays.
-
-<br>
-
-![GMA-Tutorial](GMA_Spellcaster.png)
-
-<br>
-
-### Berserker:
-Der Berserker eignet sich für Spieler die sich gerne aufs Glück verlassen. Er ist die Klasse mit dem höchsten Schadenspotenzial. Leider hat er nur eine 30%ige Chance einen Volltreffer zu landen. Deshalb ist er nicht die zuverlässigste Schadensquelle.
-
-<br>
-
-![GMA-Tutorial](GMA_Berserker.png)
-
-<br>
-
-### Tank:
-Der Tank ist eine hilfreiche Teamplayerklasse. Sein Schaden ist nur gering, aber er ist die Klasse mit den meisten Lebenspunkten. Des weiteren besitzt er praktische Zauberrunen um seine Teams zu unterstützen.
-
-<br>
-
-![GMA-Tutorial](GMA_Tank.png)
-
-<br>
-<br>
-
-
-
 ## Interagieren mit NPC's
 
 
